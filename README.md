@@ -2,6 +2,7 @@
 
 --It is basic Window Application Project which helps the Students and the teachers 
 --It helps the teacher to stores the data of students and update the result of students
+-- And helps the Students for their results
 
 ## 🛠 Skills Used
 Java ,Swing , DataStructure , Algorithms, Oops, MySql
