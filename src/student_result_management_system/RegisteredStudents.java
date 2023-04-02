@@ -176,7 +176,7 @@ public class RegisteredStudents extends javax.swing.JFrame {
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
         setVisible(false);
-        new AllStudents().setVisible(true);
+        new AllStudentsResult().setVisible(true);
     }//GEN-LAST:event_jButton4ActionPerformed
 
     private void formComponentShown(java.awt.event.ComponentEvent evt) {//GEN-FIRST:event_formComponentShown
